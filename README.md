@@ -12,6 +12,11 @@ Less is More: Recursive Reasoning with Tiny Networks [Link](https://arxiv.org/ab
 
 Gaussian Bounding boxes and Probabilistic Intersection-over-Union for Object Detection [Link](https://arxiv.org/abs/2106.06072)
 
+
+## 2013
+
+Region-based Convolutional Networks for Accurate Object Detection and Segmentation [Link](https://islab.ulsan.ac.kr/files/announcement/513/rcnn_pami.pdf)
+
 ## 2012
 
 ImageNet Classification with Deep Convolutional Neural Networks [Link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
