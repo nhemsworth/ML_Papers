@@ -8,6 +8,10 @@ https://www.vanderlaan.ca/resources/artificial-intelligence
 
 Less is More: Recursive Reasoning with Tiny Networks [Link](https://arxiv.org/abs/2510.04871)
 
+SAM 2: Segment Anything in Images and Videos [Link](https://arxiv.org/abs/2408.00714)
+
+Learning Dynamics of LLM Finetuning [Link](https://openreview.net/forum?id=tPNHOoZFl9)
+
 ## 2021
 
 Gaussian Bounding boxes and Probabilistic Intersection-over-Union for Object Detection [Link](https://arxiv.org/abs/2106.06072)
